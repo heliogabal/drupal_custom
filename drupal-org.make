@@ -190,7 +190,7 @@ projects[tao][subdir] = "contrib"
 projects[alfred][type] = "theme"
 projects[alfred][download][type] = "git"
 projects[alfred][download][url] = "https://github.com/heliogabal/alfred.git"
-projects[alfred][download][branch] = blue
+projects[alfred][download][branch] = master
 projects[alfred][options][working-copy] = TRUE
 projects[alfred][subdir] = ""
 
@@ -295,3 +295,6 @@ libraries[socialshareprivacy][type] = "library"
 libraries[socialshareprivacy][destination] = "libraries"
 libraries[socialshareprivacy][download][type] = "get"
 libraries[socialshareprivacy][download][url] = "http://www.heise.de/extras/socialshareprivacy/jquery.socialshareprivacy.tar.gz"
+
+; +++++ Translations +++++
+translations[] = de
