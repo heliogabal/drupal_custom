@@ -7,6 +7,8 @@ defaults[projects][subdir] = "contrib"
 
 ; +++++ Modules +++++
 
+projects[advagg][version] = "2.17"
+
 projects[fontyourface][version] = "2.8"
 
 projects[admin_menu][version] = "3.0-rc5"
