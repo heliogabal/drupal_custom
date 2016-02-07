@@ -286,3 +286,17 @@ libraries[ckeditor][destination] = "libraries"
 libraries[ckeditor][download][type] = "file"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.5.7/ckeditor_4.5.7_standard.zip"
 
+; nivo-slider
+libraries[nivo-slider][directory_name] = "nivo-slider"
+libraries[nivo-slider][type] = "library"
+libraries[nivo-slider][destination] = "libraries"
+libraries[nivo-slider][download][type] = "get"
+;libraries[nivo-slider][download][url] = "http://github.com/downloads/gilbitron/Nivo-Slider/nivo-slider3.1.zip"
+libraries[nivo-slider][download][url] = "https://github.com/downloads/gilbitron/Nivo-Slider/nivo-slider2.7.1.zip"
+
+; socialshareprivacy
+libraries[socialshareprivacy][directory_name] = "socialshareprivacy"
+libraries[socialshareprivacy][type] = "library"
+libraries[socialshareprivacy][destination] = "libraries"
+libraries[socialshareprivacy][download][type] = "get"
+libraries[socialshareprivacy][download][url] = "http://www.heise.de/extras/socialshareprivacy/jquery.socialshareprivacy.tar.gz"
