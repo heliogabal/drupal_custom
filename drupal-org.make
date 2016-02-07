@@ -9,133 +9,133 @@ defaults[projects][subdir] = "contrib"
 
 projects[advagg][version] = "2.17"
 
-projects[fontyourface][version] = "2.8"
+;projects[fontyourface][version] = "2.8"
 
-projects[admin_menu][version] = "3.0-rc5"
+;projects[admin_menu][version] = "3.0-rc5"
 
-projects[admin_views][version] = "1.4"
+;projects[admin_views][version] = "1.4"
 
-projects[fpa][version] = "2.6"
+;projects[fpa][version] = "2.6"
 
-projects[module_filter][version] = "2.0"
+;projects[module_filter][version] = "2.0"
 
-projects[readonlymode][version] = "1.2"
+;projects[readonlymode][version] = "1.2"
 
-projects[ctools][version] = "1.7"
+;projects[ctools][version] = "1.7"
 
-projects[profiler_builder][version] = "1.2"
+;projects[profiler_builder][version] = "1.2"
 
-projects[ds][version] = "2.7"
+;projects[ds][version] = "2.7"
 
-projects[filefield_nginx_progress][version] = "2.x-dev"
+;projects[filefield_nginx_progress][version] = "2.x-dev"
 
-projects[filefield_paths][version] = "1.0-beta4"
+;projects[filefield_paths][version] = "1.0-beta4"
 
-projects[smart_trim][version] = "1.4"
+;projects[smart_trim][version] = "1.4"
 
-projects[imagecache_token][version] = "1.x-dev"
+;projects[imagecache_token][version] = "1.x-dev"
 
-projects[float_filter][version] = "1.2"
+;projects[float_filter][version] = "1.2"
 
-projects[image_resize_filter][version] = "1.14"
+;projects[image_resize_filter][version] = "1.14"
 
-projects[mailchimp][version] = "3.2"
+;projects[mailchimp][version] = "3.2"
 
-projects[file_entity][version] = "2.x-dev"
+;projects[file_entity][version] = "2.x-dev"
 
-projects[media][version] = "2.0-alpha4"
+;projects[media][version] = "2.0-alpha4"
 
-projects[media_vimeo][version] = "2.0"
+;projects[media_vimeo][version] = "2.0"
 
-projects[media_youtube][version] = "2.0-rc5"
+;projects[media_youtube][version] = "2.0-rc5"
 
-projects[hreflang][version] = "1.2"
+;projects[hreflang][version] = "1.2"
 
-projects[lang_dropdown][version] = "2.5"
+;projects[lang_dropdown][version] = "2.5"
 
-projects[i18n][version] = "1.12"
+;projects[i18n][version] = "1.12"
 
-projects[i18nviews][version] = "3.x-dev"
+;projects[i18nviews][version] = "3.x-dev"
 
-projects[advanced_help][version] = "1.2"
+;projects[advanced_help][version] = "1.2"
 
-projects[back_to_top][version] = "1.4"
+;projects[back_to_top][version] = "1.4"
 
-projects[better_formats][version] = "1.0-beta1"
+;projects[better_formats][version] = "1.0-beta1"
 
-projects[block_class][version] = "2.1"
+;projects[block_class][version] = "2.1"
 
-projects[ckeditor_styles][version] = "1.0-alpha1"
+;projects[ckeditor_styles][version] = "1.0-alpha1"
 
-projects[colorbox][version] = "2.8"
+;projects[colorbox][version] = "2.8"
 
-projects[diff][version] = "3.2"
+;projects[diff][version] = "3.2"
 
-projects[entity][version] = "1.6"
+;projects[entity][version] = "1.6"
 
-projects[image_field_caption][version] = "2.1"
+;projects[image_field_caption][version] = "2.1"
 
-projects[invisimail][version] = "1.2"
+;projects[invisimail][version] = "1.2"
 
-projects[libraries][version] = "2.2"
+;projects[libraries][version] = "2.2"
 
-projects[linkit][version] = "3.3"
+;projects[linkit][version] = "3.3"
 
-projects[linkit_target][version] = "1.0"
+;projects[linkit_target][version] = "1.0"
 
-projects[login_destination][version] = "1.1"
+;projects[login_destination][version] = "1.1"
 
-projects[mediaelement][version] = "1.2"
+;projects[mediaelement][version] = "1.2"
 
-projects[nice_menus][version] = "2.5"
+;projects[nice_menus][version] = "2.5"
 
-projects[pathauto][version] = "1.2"
+;projects[pathauto][version] = "1.2"
 
-projects[redirect][version] = "1.0-rc1"
+;projects[redirect][version] = "1.0-rc1"
 
-projects[robotstxt][version] = "1.3"
+;projects[robotstxt][version] = "1.3"
 
-projects[special_menu_items][version] = "2.0"
+;projects[special_menu_items][version] = "2.0"
 
-projects[system_status][version] = "2.7"
+;projects[system_status][version] = "2.7"
 
-projects[token][version] = "1.6"
+;projects[token][version] = "1.6"
 
-projects[transliteration][version] = "3.2"
+;projects[transliteration][version] = "3.2"
 
-projects[paragraphs][version] = "1.0-beta6"
+;projects[paragraphs][version] = "1.0-beta6"
 
-projects[globalredirect][version] = "1.5"
+;projects[globalredirect][version] = "1.5"
 
-projects[entitycache][version] = "1.2"
+;projects[entitycache][version] = "1.2"
 
-projects[metatag][version] = "1.4"
+;projects[metatag][version] = "1.4"
 
-projects[addanother][version] = "2.2"
+;projects[addanother][version] = "2.2"
 
-projects[ckeditor_link][version] = "2.3"
+;projects[ckeditor_link][version] = "2.3"
 
-projects[ckeditor_link_file][version] = "1.3"
+;projects[ckeditor_link_file][version] = "1.3"
 
-projects[compact_forms][version] = "1.0"
+;projects[compact_forms][version] = "1.0"
 
-projects[content_menu][version] = "1.0"
+;projects[content_menu][version] = "1.0"
 
-projects[jquery_update][version] = "2.5"
+;projects[jquery_update][version] = "2.5"
 
-projects[responsive_menus][version] = "1.5"
+;projects[responsive_menus][version] = "1.5"
 
-projects[wysiwyg][version] = "2.x-dev"
+;projects[wysiwyg][version] = "2.x-dev"
 
-projects[variable][version] = "2.5"
+;projects[variable][version] = "2.5"
 
-projects[views][version] = "3.10"
+;projects[views][version] = "3.10"
 
-projects[views_bulk_operations][version] = "3.2"
+;projects[views_bulk_operations][version] = "3.2"
 
-projects[xmlsitemap][version] = "2.2"
+;projects[xmlsitemap][version] = "2.2"
 
-projects[views_cache_bully][version] = "3.1"
+;projects[views_cache_bully][version] = "3.1"
 
 ; +++++ Themes +++++
 
