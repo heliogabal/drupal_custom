@@ -190,63 +190,63 @@ projects[tao][subdir] = "contrib"
 projects[alfred][type] = "theme"
 projects[alfred][download][type] = "git"
 projects[alfred][download][url] = "https://github.com/heliogabal/alfred.git"
-projects[alfred][download][branch] = live
+projects[alfred][download][branch] = blue
 projects[alfred][options][working-copy] = TRUE
 projects[alfred][subdir] = ""
 
 projects[blue][type] = "theme"
 projects[blue][download][type] = "git"
 projects[blue][download][url] = "https://github.com/heliogabal/blue.git"
-projects[blue][download][branch] = live
+projects[blue][download][branch] = master
 projects[blue][options][working-copy] = TRUE
 projects[blue][subdir] = ""
 
 projects[enlivenment][type] = "theme"
 projects[enlivenment][download][type] = "git"
 projects[enlivenment][download][url] = "https://github.com/heliogabal/enlivenment.git"
-projects[enlivenment][download][branch] = live
+projects[enlivenment][download][branch] = master
 projects[enlivenment][options][working-copy] = TRUE
 projects[enlivenment][subdir] = ""
 
 projects[foodjustice][type] = "theme"
 projects[foodjustice][download][type] = "git"
 projects[foodjustice][download][url] = "https://github.com/heliogabal/foodjustice.git"
-projects[foodjustice][download][branch] = live
+projects[foodjustice][download][branch] = master
 projects[foodjustice][options][working-copy] = TRUE
 projects[foodjustice][subdir] = ""
 
 projects[gender][type] = "theme"
 projects[gender][download][type] = "git"
 projects[gender][download][url] = "https://github.com/heliogabal/gender.git"
-projects[gender][download][branch] = live
+projects[gender][download][branch] = master
 projects[gender][options][working-copy] = TRUE
 projects[gender][subdir] = ""
 
 projects[luise][type] = "theme"
 projects[luise][download][type] = "git"
 projects[luise][download][url] = "https://github.com/heliogabal/luise.git"
-projects[luise][download][branch] = live
+projects[luise][download][branch] = master
 projects[luise][options][working-copy] = TRUE
 projects[luise][subdir] = ""
 
 projects[und][type] = "theme"
 projects[und][download][type] = "git"
 projects[und][download][url] = "https://github.com/heliogabal/und.git"
-projects[und][download][branch] = live
+projects[und][download][branch] = master
 projects[und][options][working-copy] = TRUE
 projects[und][subdir] = ""
 
 projects[wepe][type] = "theme"
 projects[wepe][download][type] = "git"
 projects[wepe][download][url] = "https://github.com/heliogabal/wepe.git"
-projects[wepe][download][branch] = live
+projects[wepe][download][branch] = master
 projects[wepe][options][working-copy] = TRUE
 projects[wepe][subdir] = ""
 
 projects[wonder][type] = "theme"
 projects[wonder][download][type] = "git"
 projects[wonder][download][url] = "https://github.com/heliogabal/wonder.git"
-projects[wonder][download][branch] = live
+projects[wonder][download][branch] = master
 projects[wonder][options][working-copy] = TRUE
 projects[wonder][subdir] = ""
 
