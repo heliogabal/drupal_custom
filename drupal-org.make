@@ -152,11 +152,6 @@ projects[danland][type] = "theme"
 projects[danland][version] = "1.0"
 projects[danland][subdir] = "contrib"
 
-; foodjustice_blog
-projects[foodjustice_blog][type] = "theme"
-projects[foodjustice_blog][version] = "1.6"
-projects[foodjustice_blog][subdir] = "contrib"
-
 ; mayo
 projects[mayo][type] = "theme"
 projects[mayo][version] = "2.5"
