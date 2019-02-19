@@ -9,21 +9,21 @@ defaults[projects][subdir] = "contrib"
 
 projects[advagg][version] = "2.17"
 
-;projects[fontyourface][version] = "2.8"
+projects[fontyourface][version] = "2.8"
 
 projects[admin_menu][version] = "3.0-rc6"
 
-;projects[admin_views][version] = "1.4"
+projects[admin_views][version] = "1.6"
 
-;projects[fpa][version] = "2.6"
+projects[fpa][version] = "2.6"
 
-;projects[module_filter][version] = "2.0"
+projects[module_filter][version] = "2.1"
 
-;projects[readonlymode][version] = "1.2"
+projects[readonlymode][version] = "1.2"
 
-;projects[ctools][version] = "1.15"
+projects[ctools][version] = "1.15"
 
-;projects[profiler_builder][version] = "1.2"
+projects[profiler_builder][version] = "1.2"
 
 projects[ds][version] = "2.16"
 
@@ -31,13 +31,13 @@ projects[ds][version] = "2.16"
 
 projects[filefield_paths][version] = "1.1"
 
-;projects[smart_trim][version] = "1.4"
+projects[smart_trim][version] = "1.5"
 
 projects[imagecache_token][version] = "1.0-rc3"
 
-;projects[float_filter][version] = "1.2"
+projects[float_filter][version] = "1.2"
 
-;projects[image_resize_filter][version] = "1.14"
+projects[image_resize_filter][version] = "1.16"
 
 projects[mailchimp][version] = "5.4"
 
@@ -45,91 +45,87 @@ projects[file_entity][version] = "2.25"
 
 projects[media][version] = "2.21"
 
-;projects[media_vimeo][version] = "2.0"
+projects[media_vimeo][version] = "2.1"
 
 projects[media_youtube][version] = "3.8"
 
 projects[hreflang][version] = "1.4"
 
-;projects[lang_dropdown][version] = "2.5"
+projects[lang_dropdown][version] = "2.6"
 
 projects[i18n][version] = "1.26"
 
-;projects[i18nviews][version] = "3.x-dev"
+projects[i18nviews][version] = "3.0-alpha1"
 
 projects[advanced_help][version] = "1.5"
 
-;projects[back_to_top][version] = "1.4"
+projects[back_to_top][version] = "1.5"
 
-;projects[better_formats][version] = "1.0-beta1"
+projects[better_formats][version] = "1.0-beta2"
 
 projects[block_class][version] = "2.4"
 
-;projects[ckeditor_styles][version] = "1.0-alpha1"
+projects[ckeditor_styles][version] = "1.0-alpha1"
 
-;projects[colorbox][version] = "2.8"
+projects[colorbox][version] = "2.13"
 
 projects[diff][version] = "3.4"
 
-;projects[entity][version] = "1.6"
+projects[entity][version] = "1.9"
 
 projects[image_field_caption][version] = "2.3"
 
-;projects[invisimail][version] = "1.2"
+projects[invisimail][version] = "1.2"
 
 projects[libraries][version] = "2.5"
 
-;projects[linkit][version] = "3.3"
+projects[linkit][version] = "3.5"
 
 ;projects[linkit_target][version] = "1.0"
 
-;projects[login_destination][version] = "1.1"
+projects[login_destination][version] = "1.4"
 
-;projects[mediaelement][version] = "1.2"
+projects[mediaelement][version] = "1.2"
 
-;projects[nice_menus][version] = "2.5"
+projects[nice_menus][version] = "2.5"
 
-;projects[pathauto][version] = "1.2"
+projects[pathauto][version] = "1.3"
 
-;projects[redirect][version] = "1.0-rc1"
+projects[redirect][version] = "1.0-rc3"
 
-;projects[robotstxt][version] = "1.3"
-
-;projects[special_menu_items][version] = "2.0"
+projects[special_menu_items][version] = "2.0"
 
 projects[system_status][version] = "3.3"
 
-;projects[token][version] = "1.6"
+projects[token][version] = "1.7"
 
-;projects[transliteration][version] = "3.2"
+projects[transliteration][version] = "3.2"
 
-;projects[paragraphs][version] = "1.0-beta6"
+projects[paragraphs][version] = "1.0-rc5"
 
-;projects[globalredirect][version] = "1.5"
+projects[globalredirect][version] = "1.6"
 
-;projects[entitycache][version] = "1.2"
+projects[metatag][version] = "1.25"
 
-;projects[metatag][version] = "1.4"
+projects[addanother][version] = "2.2"
 
-;projects[addanother][version] = "2.2"
+projects[ckeditor_link][version] = "2.4"
 
-;projects[ckeditor_link][version] = "2.3"
+projects[ckeditor_link_file][version] = "1.3"
 
-;projects[ckeditor_link_file][version] = "1.3"
+projects[compact_forms][version] = "1.0"
 
-;projects[compact_forms][version] = "1.0"
+projects[content_menu][version] = "1.0"
 
-;projects[content_menu][version] = "1.0"
-
-;projects[jquery_update][version] = "2.5"
+projects[jquery_update][version] = "2.7"
 
 projects[responsive_menus][version] = "1.7"
 
-;projects[wysiwyg][version] = "2.x-dev"
+projects[wysiwyg][version] = "2.5"
 
-;projects[variable][version] = "2.5"
+projects[variable][version] = "2.5"
 
-;projects[views][version] = "3.10"
+projects[views][version] = "3.20"
 
 projects[views_bulk_operations][version] = "3.5"
 
@@ -144,7 +140,7 @@ projects[shiny][subdir] = "contrib"
 
 ; adminimal_theme
 projects[adminimal_theme][type] = "theme"
-projects[adminimal_theme][version] = "1.23"
+projects[adminimal_theme][version] = "1.25"
 projects[adminimal_theme][subdir] = "contrib"
 
 ; danland
