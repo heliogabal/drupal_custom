@@ -11,7 +11,7 @@ projects[advagg][version] = "2.17"
 
 ;projects[fontyourface][version] = "2.8"
 
-;projects[admin_menu][version] = "3.0-rc5"
+projects[admin_menu][version] = "3.0-rc6"
 
 ;projects[admin_views][version] = "1.4"
 
@@ -21,63 +21,63 @@ projects[advagg][version] = "2.17"
 
 ;projects[readonlymode][version] = "1.2"
 
-;projects[ctools][version] = "1.7"
+;projects[ctools][version] = "1.15"
 
 ;projects[profiler_builder][version] = "1.2"
 
-;projects[ds][version] = "2.7"
+projects[ds][version] = "2.16"
 
 ;projects[filefield_nginx_progress][version] = "2.x-dev"
 
-;projects[filefield_paths][version] = "1.0-beta4"
+projects[filefield_paths][version] = "1.1"
 
 ;projects[smart_trim][version] = "1.4"
 
-;projects[imagecache_token][version] = "1.x-dev"
+projects[imagecache_token][version] = "1.0-rc3"
 
 ;projects[float_filter][version] = "1.2"
 
 ;projects[image_resize_filter][version] = "1.14"
 
-;projects[mailchimp][version] = "3.2"
+projects[mailchimp][version] = "5.4"
 
-;projects[file_entity][version] = "2.x-dev"
+projects[file_entity][version] = "2.25"
 
-;projects[media][version] = "2.0-alpha4"
+projects[media][version] = "2.21"
 
 ;projects[media_vimeo][version] = "2.0"
 
-;projects[media_youtube][version] = "2.0-rc5"
+projects[media_youtube][version] = "3.8"
 
-;projects[hreflang][version] = "1.2"
+projects[hreflang][version] = "1.4"
 
 ;projects[lang_dropdown][version] = "2.5"
 
-;projects[i18n][version] = "1.12"
+projects[i18n][version] = "1.26"
 
 ;projects[i18nviews][version] = "3.x-dev"
 
-;projects[advanced_help][version] = "1.2"
+projects[advanced_help][version] = "1.5"
 
 ;projects[back_to_top][version] = "1.4"
 
 ;projects[better_formats][version] = "1.0-beta1"
 
-;projects[block_class][version] = "2.1"
+projects[block_class][version] = "2.4"
 
 ;projects[ckeditor_styles][version] = "1.0-alpha1"
 
 ;projects[colorbox][version] = "2.8"
 
-;projects[diff][version] = "3.2"
+projects[diff][version] = "3.4"
 
 ;projects[entity][version] = "1.6"
 
-;projects[image_field_caption][version] = "2.1"
+projects[image_field_caption][version] = "2.3"
 
 ;projects[invisimail][version] = "1.2"
 
-;projects[libraries][version] = "2.2"
+projects[libraries][version] = "2.5"
 
 ;projects[linkit][version] = "3.3"
 
@@ -97,7 +97,7 @@ projects[advagg][version] = "2.17"
 
 ;projects[special_menu_items][version] = "2.0"
 
-;projects[system_status][version] = "2.7"
+projects[system_status][version] = "3.3"
 
 ;projects[token][version] = "1.6"
 
@@ -123,7 +123,7 @@ projects[advagg][version] = "2.17"
 
 ;projects[jquery_update][version] = "2.5"
 
-;projects[responsive_menus][version] = "1.5"
+projects[responsive_menus][version] = "1.7"
 
 ;projects[wysiwyg][version] = "2.x-dev"
 
@@ -131,11 +131,9 @@ projects[advagg][version] = "2.17"
 
 ;projects[views][version] = "3.10"
 
-;projects[views_bulk_operations][version] = "3.2"
+projects[views_bulk_operations][version] = "3.5"
 
-;projects[xmlsitemap][version] = "2.2"
-
-;projects[views_cache_bully][version] = "3.1"
+projects[xmlsitemap][version] = "2.6"
 
 ; +++++ Themes +++++
 
@@ -170,9 +168,9 @@ projects[omega][version] = "4.2"
 projects[omega][subdir] = "contrib"
 
 ; parrot
-projects[parrot][type] = "theme"
-projects[parrot][version] = "1.x-dev"
-projects[parrot][subdir] = "contrib"
+;projects[parrot][type] = "theme"
+;projects[parrot][version] = "1.x-dev"
+;projects[parrot][subdir] = "contrib"
 
 ; responsive_blog
 projects[responsive_blog][type] = "theme"
