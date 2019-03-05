@@ -7,13 +7,35 @@ defaults[projects][subdir] = "contrib"
 
 ; +++++ Modules +++++
 
-projects[advagg][version] = "2.17"
+projects[addressfield][version] = "1.2"
+
+projects[addressfield_autocomplete][version] = "1.0-beta5"
+
+projects[advagg][version] = "2.33"
+
+projects[ajax_poll][version] = "1.1"
 
 projects[fontyourface][version] = "2.8"
+
+projects[adminimal_admin_menu][version] = "1.9"
 
 projects[admin_menu][version] = "3.0-rc6"
 
 projects[admin_views][version] = "1.6"
+
+projects[advanced_forum][version] = "2.6"
+
+projects[advanced_forum_more_styles][version] = "2.0-alpha1"
+
+projects[auto_entityqueue][version] = "1.0"
+
+projects[better_exposed_filters][version] = "3.6"
+
+projects[bundle_copy][version] = "2.x-dev"
+
+projects[captcha][version] = "1.5"
+
+projects[chosen][version] = "2.1"
 
 projects[fpa][version] = "2.6"
 
@@ -29,7 +51,17 @@ projects[ds][version] = "2.16"
 
 ;projects[filefield_nginx_progress][version] = "2.x-dev"
 
+projects[feeds][version] = "2.0-beta4"
+
+projects[feeds_imagegrabber][version] = "1.0-alpha1"
+
+projects[field_collection][version] = "1.0-beta12"
+
 projects[filefield_paths][version] = "1.1"
+
+projects[flexslider][version] = "2.0-rc2"
+
+projects[fontawesome][version] = "2.8"
 
 projects[smart_trim][version] = "1.5"
 
@@ -39,15 +71,33 @@ projects[float_filter][version] = "1.2"
 
 projects[image_resize_filter][version] = "1.16"
 
+projects[insert][version] = "1.4"
+
+projects[jcaption][version] = "1.4"
+
+projects[job_scheduler][version] = "2.0"
+
 projects[mailchimp][version] = "5.4"
+
+projects[mailsystem][version] = "2.34"
+
+projects[manualcrop][version] = "1.7"
+
+projects[menu_admin_per_menu][version] = "1.1"
 
 projects[file_entity][version] = "2.25"
 
 projects[media][version] = "2.21"
 
+projects[media_feeds][version] = "2.0-alpha1"
+
 projects[media_vimeo][version] = "2.1"
 
 projects[media_youtube][version] = "3.8"
+
+projects[mimemail][version] = "1.0"
+
+projects[name][version] = "1.10"
 
 projects[hreflang][version] = "1.4"
 
@@ -74,6 +124,8 @@ projects[diff][version] = "3.4"
 projects[entity][version] = "1.9"
 
 projects[image_field_caption][version] = "2.3"
+# https://www.drupal.org/project/image_field_caption/issues/1913352
+projects[image_field_caption][patch][] = "https://www.drupal.org/files/issues/image_field_caption_colorbox-1913352-39.patch"
 
 projects[invisimail][version] = "1.2"
 
@@ -89,11 +141,27 @@ projects[mediaelement][version] = "1.2"
 
 projects[nice_menus][version] = "2.5"
 
+projects[panels][version] = "3.9"
+
 projects[pathauto][version] = "1.3"
+
+projects[rabbit_hole][version] = "2.24" 
 
 projects[redirect][version] = "1.0-rc3"
 
+projects[save_draft][version] = "1.4"
+
+projects[scheduler][version] = "1.5"
+ 
+projects[semanticviews][version] = "1.0"
+
+projects[simplenews][version] = "1.1"
+
+projects[socialshareprivacy][version] = "1.11"
+
 projects[special_menu_items][version] = "2.0"
+
+projects[styles][version] = "2.0-alpha8"
 
 projects[system_status][version] = "3.3"
 
@@ -102,6 +170,12 @@ projects[token][version] = "1.7"
 projects[transliteration][version] = "3.2"
 
 projects[paragraphs][version] = "1.0-rc5"
+# https://www.drupal.org/project/paragraphs/issues/2452675
+projects[paragraphs][patch][] = "https://www.drupal.org/files/issues/2018-07-30/paragraphs-entity_translation-2452675-254.patch"
+# https://www.drupal.org/project/paragraphs/issues/2645646
+projects[paragraphs][patch][] = "https://www.drupal.org/files/issues/add_langcode_to_view_method_calls-2645646-1.patch"
+
+projects[pathologic][version] = "2.12"
 
 projects[globalredirect][version] = "1.6"
 
@@ -128,6 +202,16 @@ projects[variable][version] = "2.5"
 projects[views][version] = "3.20"
 
 projects[views_bulk_operations][version] = "3.5"
+
+projects[views_fluid_grid][version] = "3.0"
+
+projects[views_slideshow][version] = "3.9"
+
+projects[views_nivo_slider][version] = "3.0"
+
+projects[workbench][version] = "1.2"
+
+projects[workbench_media][version] = "1.1"
 
 projects[xmlsitemap][version] = "2.6"
 
