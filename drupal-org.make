@@ -125,7 +125,7 @@ projects[entity][version] = "1.9"
 
 projects[image_field_caption][version] = "2.3"
 # https://www.drupal.org/project/image_field_caption/issues/1913352
-projects[image_field_caption][patch][] = "https://www.drupal.org/files/issues/image_field_caption_colorbox-1913352-39.patch"
+projects[image_field_caption][patch][] = "https://www.drupal.org/files/issues/image_field_caption_colorbox-1913352-36.patch"
 
 projects[invisimail][version] = "1.2"
 
