@@ -95,6 +95,11 @@ projects[media_vimeo][version] = "2.1"
 
 projects[media_youtube][version] = "3.8"
 
+projects[media_facebook_video] = "1.0"
+# patches needed for 1.0: https://www.drupal.org/project/media_facebook_video/issues/2592833, https://www.drupal.org/project/media_facebook_video/issues/2677452
+projects[media_facebook_video][patch][] = "https://www.drupal.org/files/issues/media_facebook_video-template_markup-2677452-1-D7.patch"
+projects[media_facebook_video][patch][] = "https://www.drupal.org/files/issues/element_validate-callback-name-2592833-3_0.patch"
+
 projects[mimemail][version] = "1.0"
 
 projects[name][version] = "1.10"
