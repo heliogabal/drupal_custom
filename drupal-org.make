@@ -51,6 +51,9 @@ projects[ds][version] = "2.16"
 
 ;projects[filefield_nginx_progress][version] = "2.x-dev"
 
+projects[facet_link_formatter][version] = "1.2"
+projects[facet_link_formatter][patch][] = "https://www.drupal.org/files/issues/ajaxerror-2766579-2.patch"
+
 projects[feeds][version] = "2.0-beta4"
 
 projects[feeds_imagegrabber][version] = "1.0-alpha1"
@@ -82,6 +85,10 @@ projects[mailchimp][version] = "5.4"
 projects[mailsystem][version] = "2.34"
 
 projects[manualcrop][version] = "1.7"
+
+projects[maxlength][version] = "3.2"
+projects[maxlength][patch][] = "https://www.drupal.org/files/issues/maxlength-bypass_permision_default_role-2415823-36.patch"
+projects[maxlength][patch][] = "https://www.drupal.org/files/issues/truncate_option_makes-2823849-5.patch"
 
 projects[menu_admin_per_menu][version] = "1.1"
 
