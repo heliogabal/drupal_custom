@@ -145,6 +145,8 @@ projects[libraries][version] = "2.5"
 
 projects[linkit][version] = "3.5"
 
+projects[linkchecker][version] = "1.4"
+
 ;projects[linkit_target][version] = "1.0"
 
 projects[login_destination][version] = "1.4"
