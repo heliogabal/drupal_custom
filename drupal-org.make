@@ -23,7 +23,7 @@ projects[admin_menu][version] = "3.0-rc6"
 
 projects[admin_views][version] = "1.6"
 
-projects[advanced_forum][version] = "2.6"
+projects[advanced_forum][version] = "2.8"
 
 projects[advanced_forum_more_styles][version] = "2.0-alpha1"
 
