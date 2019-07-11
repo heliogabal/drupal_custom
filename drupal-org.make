@@ -39,7 +39,7 @@ projects[chosen][version] = "2.1"
 
 projects[fpa][version] = "2.6"
 
-projects[module_filter][version] = "2.1"
+projects[module_filter][version] = "2.2"
 
 projects[readonlymode][version] = "1.2"
 
@@ -68,7 +68,7 @@ projects[fontawesome][version] = "2.8"
 
 projects[smart_trim][version] = "1.5"
 
-projects[imagecache_token][version] = "1.0-rc3"
+projects[imagecache_token][version] = "1.0"
 
 projects[float_filter][version] = "1.2"
 
@@ -80,7 +80,7 @@ projects[jcaption][version] = "1.4"
 
 projects[job_scheduler][version] = "2.0"
 
-projects[mailchimp][version] = "5.4"
+projects[mailchimp][version] = "5.5"
 
 projects[mailsystem][version] = "2.34"
 
@@ -94,7 +94,7 @@ projects[menu_admin_per_menu][version] = "1.1"
 
 projects[file_entity][version] = "2.25"
 
-projects[media][version] = "2.21"
+projects[media][version] = "2.22"
 
 projects[media_feeds][version] = "2.0-alpha1"
 
@@ -121,7 +121,7 @@ projects[i18nviews][version] = "3.0-alpha1"
 
 projects[advanced_help][version] = "1.5"
 
-projects[back_to_top][version] = "1.5"
+projects[back_to_top][version] = "1.6"
 
 projects[better_formats][version] = "1.0-beta2"
 
@@ -213,7 +213,7 @@ projects[wysiwyg][version] = "2.5"
 
 projects[variable][version] = "2.5"
 
-projects[views][version] = "3.20"
+projects[views][version] = "3.23"
 
 projects[views_bulk_operations][version] = "3.5"
 
