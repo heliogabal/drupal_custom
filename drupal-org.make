@@ -17,6 +17,8 @@ projects[ajax_poll][version] = "1.1"
 
 projects[blazy][version] = "1.0"
 
+projects[collageformatter] = "1.0-rc7"
+
 projects[fontyourface][version] = "2.8"
 
 projects[adminimal_admin_menu][version] = "1.9"
@@ -175,7 +177,9 @@ projects[simplenews][version] = "1.1"
 
 projects[slick][version] = "3.0"
 
-projects[slick_views] = "3.0"
+projects[slick_views][version] = "3.0"
+
+projects[slick_extras][version] = "3.0"
 
 projects[socialshareprivacy][version] = "1.11"
 
