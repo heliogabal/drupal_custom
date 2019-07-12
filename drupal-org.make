@@ -151,19 +151,79 @@ projects[ckeditor_styles][version] = "1.0-alpha1"
 
 projects[colorbox][version] = "2.13"
 
+projects[colorbox_node][version] = "3.5"
+
+projects[crumbs][version] = "2.7"
+
+projects[date][version] = "2.10"
+
 projects[diff][version] = "3.4"
 
+projects[dismiss][version] = "1.5"
+
+projects[draggable_views][version] = "2.1"
+
+projects[draggable_captcha][version] = "1.2"
+
+projects[elements][version] = "1.5"
+
+projects[email][version] = "1.3"
+
+projects[emptyparagraphkiller][version] = "1.0-beta2"
+
 projects[entity][version] = "1.9"
+
+projects[entityqueue][version] = "1.5"
+
+projects[entityreference][version] = "1.5"
+
+projects[facetapi][version] = "1.5"
+
+projects[facetapi_select][version] = "1.3"
+
+projects[field_conditional_state][version] = "2.1"
+
+projects[field_formatter_css_class][version] = "1.3"
 
 projects[image_field_caption][version] = "2.3"
 # https://www.drupal.org/project/image_field_caption/issues/1913352
 projects[image_field_caption][patch][] = "https://www.drupal.org/files/issues/image_field_caption_colorbox-1913352-36.patch"
 
+projects[field_group][version] = "1.6"
+
+projects[filefield_sources][version] = "1.11"
+
+projects[filefield_sources_plupload][version] = "1.1"
+
+projects[geocoder][version] = "1.4"
+
+projects[geofield][version] = "2.4"
+
+projects[geophp][version] = "1.7"
+
+projects[gmap][version] = "2.11"
+
+projects[image_caption][version] = "1.0-beta3"
+
 projects[invisimail][version] = "1.2"
+
+projects[ip_geoloc][version] = "1.30"
+ 
+projects[leaflet][version] = "1.4"
+
+projects[leaflet_hash][version] = "1.1"
+
+projects[leaflet_mapbox][version] = "1.5"
+
+projects[leaflet_markercluster][version] = "1.4"
 
 projects[libraries][version] = "2.5"
 
+projects[link][version] = "1.5"
+
 projects[linkit][version] = "3.5"
+
+projects[linkit_target][version] = "1.0"
 
 projects[linkchecker][version] = "1.4"
 
@@ -185,13 +245,25 @@ projects[picture][version] = "2.13"
 
 projects[plupload][version] = "1.7"
 
+projects[prlp][version] = "1.3"
+
 projects[rabbit_hole][version] = "2.24" 
 
 projects[redirect][version] = "1.0-rc3"
 
+projects[rules][version] = "2.12"
+
 projects[save_draft][version] = "1.4"
 
 projects[scheduler][version] = "1.5"
+
+projects[search_api][version] = "1.25"
+
+projects[search_api_db][version] = "1.7"
+
+projects[search_api_page][version] = "1.5"
+
+projects[search_api_solr][version] = "1.14"
  
 projects[semanticviews][version] = "1.0"
 
@@ -214,6 +286,8 @@ projects[styles][version] = "2.0-alpha8"
 projects[system_status][version] = "3.3"
 
 projects[title][version] = "1.0-alpha9"
+
+projects[telephone][version] = "1.0-alpha1"
 
 projects[token][version] = "1.7"
 
@@ -249,15 +323,23 @@ projects[wysiwyg][version] = "2.5"
 
 projects[variable][version] = "2.5"
 
+projects[video_embed_field][version] = "2.0-beta11"
+
+projects[viewfield][version] = "2.1"
+
 projects[views][version] = "3.23"
 
 projects[views_bulk_operations][version] = "3.5"
 
 projects[views_fluid_grid][version] = "3.0"
 
+projects[views_filters_selective][version] = "1.5"
+
 projects[views_slideshow][version] = "3.9"
 
 projects[views_nivo_slider][version] = "3.0"
+
+projects[view_unpublished][version] = "1.2"
 
 projects[webform][version] = "4.19"
 
