@@ -25,6 +25,8 @@ projects[adminimal_admin_menu][version] = "1.9"
 
 projects[admin_menu][version] = "3.0-rc6"
 
+projects[admin_menu_source][version] = "1.1"
+
 projects[admin_views][version] = "1.6"
 
 projects[advanced_forum][version] = "2.8"
@@ -161,7 +163,7 @@ projects[diff][version] = "3.4"
 
 projects[dismiss][version] = "1.5"
 
-projects[draggable_views][version] = "2.1"
+projects[draggableviews][version] = "2.1"
 
 projects[draggable_captcha][version] = "1.2"
 
@@ -333,7 +335,7 @@ projects[views_bulk_operations][version] = "3.5"
 
 projects[views_fluid_grid][version] = "3.0"
 
-projects[views_filters_selective][version] = "1.5"
+projects[views_selective_filters][version] = "1.5"
 
 projects[views_slideshow][version] = "3.9"
 
