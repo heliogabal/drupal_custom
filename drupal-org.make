@@ -35,19 +35,31 @@ projects[auto_entityqueue][version] = "1.0"
 
 projects[better_exposed_filters][version] = "3.6"
 
+projects[breakpoints][version] = "1.6"
+
 projects[bundle_copy][version] = "2.x-dev"
 
 projects[captcha][version] = "1.5"
 
 projects[chosen][version] = "2.1"
 
+projects[entity_translation][version] = "1.0"
+
 projects[fpa][version] = "2.6"
+
+projects[features][version] = "2.11"
+
+projects[google_fonts][version] = "2.3"
 
 projects[honeypot][version] = "1.25"
 
 projects[module_filter][version] = "2.2"
 
 projects[readonlymode][version] = "1.2"
+
+projects[registry_autoload][version] = "1.3"
+
+projects[smtp][version] = "1.7"
 
 projects[ctools][version] = "1.15"
 
@@ -155,17 +167,23 @@ projects[linkit][version] = "3.5"
 
 projects[linkchecker][version] = "1.4"
 
-;projects[linkit_target][version] = "1.0"
+projects[linkit_target][version] = "1.0"
 
 projects[login_destination][version] = "1.4"
 
 projects[mediaelement][version] = "1.2"
+
+projects[multiform][version] = "1.6"
 
 projects[nice_menus][version] = "2.5"
 
 projects[panels][version] = "3.9"
 
 projects[pathauto][version] = "1.3"
+
+projects[picture][version] = "2.13"
+
+projects[plupload][version] = "1.7"
 
 projects[rabbit_hole][version] = "2.24" 
 
@@ -178,6 +196,8 @@ projects[scheduler][version] = "1.5"
 projects[semanticviews][version] = "1.0"
 
 projects[simplenews][version] = "1.1"
+
+projects[simplify][version] = "3.4"
 
 projects[slick][version] = "3.0"
 
@@ -192,6 +212,8 @@ projects[special_menu_items][version] = "2.0"
 projects[styles][version] = "2.0-alpha8"
 
 projects[system_status][version] = "3.3"
+
+projects[title][version] = "1.0-alpha9"
 
 projects[token][version] = "1.7"
 
