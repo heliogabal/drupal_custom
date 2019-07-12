@@ -43,6 +43,8 @@ projects[chosen][version] = "2.1"
 
 projects[fpa][version] = "2.6"
 
+projects[honeypot][version] = "1.25"
+
 projects[module_filter][version] = "2.2"
 
 projects[readonlymode][version] = "1.2"
@@ -89,6 +91,8 @@ projects[mailchimp][version] = "5.5"
 projects[mailsystem][version] = "2.34"
 
 projects[manualcrop][version] = "1.7"
+
+projects[matomo][version] "2.12"
 
 projects[maxlength][version] = "3.2"
 projects[maxlength][patch][] = "https://www.drupal.org/files/issues/maxlength-bypass_permision_default_role-2415823-36.patch"
@@ -233,6 +237,8 @@ projects[views_slideshow][version] = "3.9"
 
 projects[views_nivo_slider][version] = "3.0"
 
+projects[webform][version] = "4.19"
+
 projects[workbench][version] = "1.2"
 
 projects[workbench_media][version] = "1.1"
@@ -250,6 +256,11 @@ projects[shiny][subdir] = "contrib"
 projects[adminimal_theme][type] = "theme"
 projects[adminimal_theme][version] = "1.25"
 projects[adminimal_theme][subdir] = "contrib"
+
+; corporate agency
+projects[corporate_agency][type] = "theme"
+projects[corporate_agency][version] = "1.0"
+projects[corporate_agency][subdir] = "contrib"
 
 ; danland
 projects[danland][type] = "theme"
