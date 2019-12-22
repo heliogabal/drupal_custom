@@ -27,11 +27,13 @@ projects[admin_menu][version] = "3.0-rc6"
 
 projects[admin_menu_source][version] = "1.1"
 
-projects[admin_views][version] = "1.6"
+projects[admin_views][version] = "1.7"
 
 projects[advanced_forum][version] = "2.8"
 
 projects[advanced_forum_more_styles][version] = "2.0-alpha1"
+
+projects[autocomplete_deluxe][version] = "2.3"
 
 projects[auto_entityqueue][version] = "1.0"
 
@@ -91,6 +93,8 @@ projects[smart_trim][version] = "1.5"
 projects[imagecache_token][version] = "1.0"
 
 projects[float_filter][version] = "1.2"
+
+projects[httprl][version] = "1.14"
 
 projects[image_resize_filter][version] = "1.16"
 
@@ -277,11 +281,11 @@ projects[simplenews][version] = "1.1"
 
 projects[simplify][version] = "3.4"
 
-projects[slick][version] = "3.0"
+projects[slick][version] = "2.1"
 
-projects[slick_views][version] = "3.0"
+projects[slick_views][version] = "2.1"
 
-projects[slick_extras][version] = "3.0"
+projects[slick_extras][version] = "2.1"
 
 projects[socialshareprivacy][version] = "1.11"
 
@@ -299,7 +303,7 @@ projects[token][version] = "1.7"
 
 projects[transliteration][version] = "3.2"
 
-projects[paragraphs][version] = "1.0-rc5"
+projects[paragraphs][version] = "1.x-dev"
 # https://www.drupal.org/project/paragraphs/issues/2452675
 projects[paragraphs][patch][] = "https://www.drupal.org/files/issues/2018-07-30/paragraphs-entity_translation-2452675-254.patch"
 # https://www.drupal.org/project/paragraphs/issues/2645646
