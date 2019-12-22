@@ -210,7 +210,7 @@ projects[image_caption][version] = "1.0-beta3"
 projects[invisimail][version] = "1.2"
 
 projects[ip_geoloc][version] = "1.30"
- 
+
 projects[leaflet][version] = "1.4"
 
 projects[leaflet_hash][version] = "1.1"
@@ -249,7 +249,11 @@ projects[plupload][version] = "1.7"
 
 projects[prlp][version] = "1.3"
 
-projects[rabbit_hole][version] = "2.24" 
+projects[rabbit_hole][version] = "2.24"
+
+projects[replicate][version] = "1.2"
+
+projects[replicate_paragraphs][version] = "1.3"
 
 projects[redirect][version] = "1.0-rc3"
 
@@ -266,7 +270,7 @@ projects[search_api_db][version] = "1.7"
 projects[search_api_page][version] = "1.5"
 
 projects[search_api_solr][version] = "1.14"
- 
+
 projects[semanticviews][version] = "1.0"
 
 projects[simplenews][version] = "1.1"
