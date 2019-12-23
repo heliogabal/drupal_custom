@@ -227,7 +227,7 @@ projects[leaflet_markercluster][version] = "1.4"
 
 projects[libraries][version] = "2.5"
 
-projects[link][version] = "1.6"
+projects[link][version] = "1.7"
 
 projects[linkit][version] = "3.5"
 
