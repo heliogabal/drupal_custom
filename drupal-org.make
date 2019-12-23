@@ -122,6 +122,8 @@ projects[file_entity][version] = "2.25"
 
 projects[media][version] = "2.22"
 
+projects[media_colorbox][version] = "1.0-rc4"
+
 projects[media_feeds][version] = "2.0-alpha1"
 
 projects[media_vimeo][version] = "2.1"
@@ -225,7 +227,7 @@ projects[leaflet_markercluster][version] = "1.4"
 
 projects[libraries][version] = "2.5"
 
-projects[link][version] = "1.5"
+projects[link][version] = "1.6"
 
 projects[linkit][version] = "3.5"
 
