@@ -291,7 +291,7 @@ projects[slick][version] = "2.1"
 
 projects[slick_views][version] = "2.1"
 
-projects[slick_extras][version] = "2.1"
+projects[slick_extras][version] = "2.0"
 
 projects[socialshareprivacy][version] = "1.11"
 
