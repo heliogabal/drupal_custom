@@ -110,7 +110,7 @@ projects[mailsystem][version] = "2.34"
 
 projects[manualcrop][version] = "1.7"
 
-projects[matomo][version] "2.12"
+projects[matomo][version] = "2.12"
 
 projects[maxlength][version] = "3.2"
 projects[maxlength][patch][] = "https://www.drupal.org/files/issues/maxlength-bypass_permision_default_role-2415823-36.patch"
@@ -120,7 +120,7 @@ projects[menu_admin_per_menu][version] = "1.1"
 
 projects[file_entity][version] = "2.25"
 
-projects[media][version] = "2.22"
+projects[media][version] = "2.24"
 
 projects[media_colorbox][version] = "1.0-rc4"
 
@@ -128,7 +128,7 @@ projects[media_feeds][version] = "2.0-alpha1"
 
 projects[media_vimeo][version] = "2.1"
 
-projects[media_youtube][version] = "3.8"
+projects[media_youtube][version] = "3.9"
 
 projects[media_facebook_video] = "1.0"
 # patches needed for 1.0: https://www.drupal.org/project/media_facebook_video/issues/2592833, https://www.drupal.org/project/media_facebook_video/issues/2677452
@@ -334,6 +334,8 @@ projects[content_menu][version] = "1.0"
 projects[jquery_update][version] = "2.7"
 
 projects[responsive_menus][version] = "1.7"
+
+projects[tagclouds][version] = "1.12"
 
 projects[wysiwyg][version] = "2.5"
 
