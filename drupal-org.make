@@ -277,6 +277,10 @@ projects[search_api_page][version] = "1.5"
 
 projects[search_api_solr][version] = "1.14"
 
+projects[shariff][version] = "1.2"
+
+projects[shield][version] = "1.3"
+
 projects[semanticviews][version] = "1.0"
 
 projects[simplenews][version] = "1.1"
